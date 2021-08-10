@@ -1,0 +1,19 @@
+.header{
+    /* border: 5px solid; */
+    text-align: center;
+    margin: 11px;
+    padding: 5px;
+    width: 74%;
+}
+
+/* .table, td, tr, th{
+    border: 5px solid;
+} */
+
+.table{
+    width: 75%;
+}
+
+tbody{
+    vertical-align: center;
+}
